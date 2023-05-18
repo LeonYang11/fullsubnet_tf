@@ -6,4 +6,5 @@ Basic training scripts of DPCRN (https://github.com/Le-Xiaohuai-speech/DPCRN_DNS
 tensorflow>=1.14
 # Train and Test
 python main.py --mode train --cuda 0 --experimentName exp0
+#
 python main.py --mode test --test_dir the_dir_of_noisy --output_dir the_dir_of_enhancement_results
