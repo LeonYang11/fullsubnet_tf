@@ -1,4 +1,4 @@
-# fullsubnet_tf
+# Tensorflow implementation of fullsubnet for noise suppression
 This repository is the unofficial implementation of paper "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement" by tensorflow 1.X
 #
 Basic training scripts of DPCRN (https://github.com/Le-Xiaohuai-speech/DPCRN_DNS3) are used here
